@@ -15,7 +15,7 @@ Nowadays, I am programming in the following technologies: Python and SQL. My int
 <p align="center">
    <img src="img/python.png" width="100" height="100" /> &nbsp; &nbsp;
    <img src="img/jupyter.png" width="100" height="100" /> &nbsp; &nbsp;
-   <img src="img/Scikit.png" width="170" height="100" /> &nbsp; &nbsp;
+   <img src="img/Scikit.png" width="100" height="100" /> &nbsp; &nbsp;
    <img src="img/sql.png" width="100" height="100" /> &nbsp; &nbsp;
 </p>
 <br/>
@@ -23,6 +23,6 @@ Nowadays, I am programming in the following technologies: Python and SQL. My int
 <h2 align="center"> Contact me 📫 </h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/smfernandezg/"><img src="img/linkedin.png" width="55" height="55" /></a>&nbsp; &nbsp; &nbsp; 
-  <a target="_blank"href="mailto:sm.fernandezgarcia@gmail.com"><img src="img/gmail.png" width="55" height="62" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="mailto:sm.fernandezgarcia@gmail.com"><img src="img/gmail.png" width="55" height="65" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
