@@ -15,8 +15,8 @@ Nowadays, I am programming in the following technologies: Python and SQL. My int
 <p align="center">
    <img src="img/python.png" width="100" height="100" /> &nbsp; &nbsp;
    <img src="img/jupyter.png" width="100" height="100" /> &nbsp; &nbsp;
-   <div align="center"><img src="img/scikit.png" width="170" height="80" /> &nbsp; &nbsp;
-   <div align="center"><img src="img/sql.png" width="100" height="80" /> &nbsp; &nbsp;
+   <img src="img/scikit.png" width="170" height="80" /> &nbsp; &nbsp;
+   <img src="img/sql.png" width="100" height="80" /> &nbsp; &nbsp;
 </p>
 <br/>
 
