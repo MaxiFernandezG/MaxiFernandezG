@@ -6,7 +6,7 @@ Welcome to my profile!<br/>
 <br/>
 Welcome to my repository. My name is Maximiliano Fernández. I’m from La Plata, Buenos Aires, Argentina. 
 I am a mechanical engineer and I am studying a Python course to complement my knowledge in Data Science, a new world I am discovering day by day. 
-I love technology and the way it help us to take the right decision, to choose better. It is amazing how it connects the world.
+I love technology and the way it help us to make the right decision, to choose better. It is amazing how it connects the world.
 Nowadays, I am programming in the following technologies: Python and SQL. I would like to learn more and more about Machine Learning, Deep Learning, data analysis and others programming languages.
   </samp><br><br>
 <br><br>
